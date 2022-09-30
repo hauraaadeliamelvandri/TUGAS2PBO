@@ -16,10 +16,10 @@ public class JavaApplication_Haura {
         System.out.println("-------------------------------------------------");
         System.out.println("-------------- BINTANG BUCK COFFEE --------------");
         System.out.println("-------------------------------------------------");   
-        System.out.println("| 1. Americano                |   Rp 18000      |");
-        System.out.println("| 2. Arabika                  |   Rp 25000      |");
-        System.out.println("| 3. Latte                    |   Rp 20000      |");
-        System.out.println("| 4. Matcha                   |   Rp 25000      |");
+        System.out.println("| 1. Americano                |   Rp 15000      |");
+        System.out.println("| 2. Arabika                  |   Rp 22000      |");
+        System.out.println("| 3. Latte                    |   Rp 19000      |");
+        System.out.println("| 4. Matcha                   |   Rp 18000      |");
         System.out.println("|_____________________________|_________________|");
         System.out.println("");
 
